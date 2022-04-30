@@ -1,5 +1,6 @@
 <h2>DraggableView</h2>
-[![](https://jitpack.io/v/alvessss/DraggableView.svg)](https://jitpack.io/#alvessss/DraggableView) 
+
+[![](https://jitpack.io/v/alvessss/DraggableView.svg)](https://jitpack.io/#alvessss/DraggableView)
 
 <p>Allows you drag a view</p>
 
