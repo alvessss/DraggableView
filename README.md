@@ -1,4 +1,4 @@
-<h2>DraggableView</h2>
+<h2>DraggableView [![](https://jitpack.io/v/alvessss/DraggableView.svg)](https://jitpack.io/#alvessss/DraggableView) </h2>
 
 <p>Allows you drag a view</p>
 
@@ -11,10 +11,14 @@
         // ...
         anyView = findViewById(...);
         float bounds = 1.0F; // limit to drag
-        boolean fixed = true; // must return to original
+        boolean fixed = true; // must return to original position
 
         DraggableView draggableView = new DraggableView(anyView, bounds, fixed);
 
         // enjoy ...
 
         draggableView.release();
+
+<p>Get this:</p>
+
+    Click in the Jitpack badge beside the Title.
